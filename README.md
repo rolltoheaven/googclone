@@ -1,1 +1,1 @@
-This is google close. I will probably gonna copy the google UI :)
+This is google clone. I will probably going tp copy the google UI :)
